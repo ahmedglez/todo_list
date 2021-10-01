@@ -1,0 +1,19 @@
+.milky {
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    margin:  0 auto;
+    margin-top: 30px;
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
+    text-transform: uppercase;    
+    font-size: 42px;
+    color: #495867;
+    text-shadow: 0 8px 9px #c4b59d, 0px -2px 1px #fff;
+    font-weight: bold;
+    border-radius: 30px;
+    
+   
+    background: linear-gradient(to bottom, #F7F7FF 0%,rgb(241, 226, 243) 100%);      
+   
+    
+  }
